@@ -1,7 +1,7 @@
 import base64
 import hashlib
 import hmac
-import simplejson
+import json
 import time
 
 from django import template
